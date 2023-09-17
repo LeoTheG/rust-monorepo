@@ -13,3 +13,4 @@ cargo new <project-name>
 ```bash
 cargo run
 ```
+# rust-monorepo
